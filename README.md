@@ -21,6 +21,7 @@ A trained agent playing the Snake game in real time.
 
 
 
+
 ---
 
 ## 🧠 Technologies Used
@@ -31,6 +32,7 @@ A trained agent playing the Snake game in real time.
 - **Matplotlib** — to plot the training scores
 
 ---
+
 
 
 
