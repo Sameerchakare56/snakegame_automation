@@ -15,7 +15,9 @@ The agent’s score over multiple games as it learns:
 ### Live Gameplay:
 A trained agent playing the Snake game in real time.
 
-![Gameplay]![Uploading Screenshot 2025-08-03 092738.png…]()
+![Uploading Screenshot 2025-08-03 092738.png…]()
+
+
 
 
 ---
@@ -28,6 +30,7 @@ A trained agent playing the Snake game in real time.
 - **Matplotlib** — to plot the training scores
 
 ---
+
 
 
 
