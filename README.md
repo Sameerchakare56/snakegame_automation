@@ -16,9 +16,7 @@ Training chart showing the game score (blue) and average score (orange) over epi
 ### Live Gameplay:
 A trained agent playing the Snake game in real time.
 
-![Uploading Screenshot 2025-08-03 092738.png…]()
-
-
+<img width="416" height="436" alt="Screenshot 2025-08-03 092738" src="https://github.com/user-attachments/assets/bd75847b-74b8-4bcb-b3cb-d6cd372fcd36" />
 
 
 
@@ -32,10 +30,4 @@ A trained agent playing the Snake game in real time.
 - **Matplotlib** — to plot the training scores
 
 ---
-
-
-
-
-
-
 
