@@ -9,12 +9,14 @@ This project showcases a Reinforcement Learning (Deep Q-Network) agent that lear
 ### Training Progress:
 The agent’s score over multiple games as it learns:
 
-![Training Progress](Figure_1.png)
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/1cb6cfa6-f91c-4432-aa7b-210a72a6008d" />
+
 
 ### Live Gameplay:
 A trained agent playing the Snake game in real time.
 
-![Gameplay](Screenshot%202025-08-03%20092738.png)
+![Gameplay]![Uploading Screenshot 2025-08-03 092738.png…]()
+
 
 ---
 
@@ -26,6 +28,7 @@ A trained agent playing the Snake game in real time.
 - **Matplotlib** — to plot the training scores
 
 ---
+
 
 
 
