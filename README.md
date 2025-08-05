@@ -1,6 +1,7 @@
 ﻿# 🐍 Snake Game Automation with Reinforcement Learning
 
 This project showcases a Reinforcement Learning (Deep Q-Network) agent that learns how to play the classic Snake game autonomously using a neural network and the PyTorch framework. The game environment is built with Pygame.
+- Sameer Chakravedi
 
 ---
 
